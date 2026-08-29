@@ -1,0 +1,8 @@
+# Sorties de l'analyse (regenerees par R/exemple_analyse_miroir.R)
+resultats/
+donnees/exemple_*.csv
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
